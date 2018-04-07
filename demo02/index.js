@@ -1,3 +1,4 @@
+//非常暴力的实现结构复用
 class LinkButton {
     render (linkText) {
         return `
